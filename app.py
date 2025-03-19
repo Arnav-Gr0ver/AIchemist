@@ -15,6 +15,7 @@ demo = gr.ChatInterface(
         {"text": "No files", "files": []}
     ], 
     multimodal=True,
+    save_history=True
     textbox=gr.MultimodalTextbox(file_count="multiple", file_types=["image"], sources=["upload", "microphone"])
 )
 
