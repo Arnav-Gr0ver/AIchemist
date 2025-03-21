@@ -25,6 +25,9 @@ system comes up with set of steps + task requirements in order to achieve result
     * script setup
 5. training + logging
 6. eval
-7. ablation studies
 
+FUTURE:
 in future user can backtrack to any step
+add image support
+arxiv search
+ablation studies to compare results to original
