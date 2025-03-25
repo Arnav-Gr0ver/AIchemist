@@ -23,3 +23,9 @@ This project automates the replication of research papers with code in a sandbox
 ## **Contributing**  
 
 ## **License**  
+
+FUTURE:
+in future user can backtrack to any step
+add image support
+arxiv search
+ablation studies to compare results to original
